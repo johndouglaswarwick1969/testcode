@@ -1,0 +1,23 @@
+{
+    "name": "vendor/php-project2",
+    "description": "Description of project PhpProject2.",
+    "authors": [
+        {
+            "name": "VocaLink",
+            "email": "your@email.here"
+        }
+    ],
+    "config": {
+        "disable-tls": true,
+        "secure-http": false
+    },
+    "require": {
+    
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*",
+        "facebook/webdriver": "dev-master"
+        
+    }
+
+}
